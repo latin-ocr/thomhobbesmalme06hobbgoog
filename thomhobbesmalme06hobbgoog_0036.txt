@@ -1,0 +1,47 @@
+ROSETUM euomurulcum. 27
+
+Sin quaeratur sectio tangentis 30 graduumque anonam.
+
+predictae secantis est dimidia, et latus cubi in- fflffi,
+scripti circulo cujus diameter est AB, sumatur se· “⁰⁰⁸ Μ·
+missis ipsius Ad, idest ad: ea erit segmentum ma-
+jus, etreliqua pars tangentis erit segmentum minus.
+Similiter, si secanda sit AF proportionaliter, ducta
+AF secet ab in e, et erit Ae majus segmentum ejus,
+et eF segmentum minus: et dimidia Ae, majus
+segmentum dimidiae AF.
+
+——-
+*—
+
+PROP. IX.
+
+DE DIVISIONE ANGULI DATI.
+
+Anaunuu datum secare in data ratione.
+
+Sit angulus datus BAC: sitque ratio data, AB
+ad AD. Describatur arcus ADE: et secetur arcus
+BC bifariam in F. Quare ducta AF secabit quo-
+que DE bifariam (puta) in G. Ductae ergo chordae
+BF, DG erunt inter se ut rectae· AB, AD. -
+
+Applicentur duae chordae DG, GE ad arcum BF
+in 1 et K, ita ut chordae B1,IK sint aequales chor-
+dis DG, GE utraque utrique: ducanturque AI,
+ΑΚ, quarum AK secet arcum DE in L, AI secet
+arcum eundem in M.
+
+Dico arcum totum BC ita divisum esse in K, ut
+
+arcus BC, sive angulus datus BAC, sit ad arcum
+ΒΚ, sive angulum BAK, ut recta AB ad AD.
+
+Est enim chorda ΒΚ ad chordam DL, ut AB ad
+AD. Est etiam ut duae chordae ΒΙ, IK ad duas
+chordas ΒΜ, ML, ita AB ad AD. Sed duae chordae
+
+ΒΙ, ΙΙ( sunt, per constructionem, aequales duabus
+
+ 
+
